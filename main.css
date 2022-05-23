@@ -1,8 +1,35 @@
 body{
-    background-color: #ffffad;
+    background-color: #1a073e;
+    font-family: sans-serif;
+    color: white;
 }
+
 .title{
+    text-align: center;
     margin: 0px;
     padding-top: 16px;
+    font-size: 72px;
+}
+
+.main-title{
+    text-shadow: 3px 3px 3px gray;
+}
+
+.welcome{
+    font-size: 60px;
+    margin-top: 60px;
+    margin-bottom: 12px;
+    text-align: center;
+    font-style: italic;
+    font-family: Monotype Corsiva;
+    color: #ff7fbf;
+}
+
+.you{
+    text-align: center;
+}
+
+.cnt{
     font-size: 48px;
+    color: red;
 }
