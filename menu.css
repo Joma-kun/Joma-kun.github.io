@@ -1,4 +1,11 @@
+body{
+    background-color: #b7b7ff;
+    font-family: serif;
+}
+
 li{
+    padding-top: 10px;
+    padding-bottom: 10px;
     list-style: none;
 }
 
