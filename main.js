@@ -2,6 +2,7 @@ $(function(){
 
     var cursor=$("#cursor");
     var stalker=$("#mouse");
+    var pointer=$("pointer");
 
     var body = $("body");
     var flag = true;
