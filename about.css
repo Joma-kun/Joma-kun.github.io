@@ -20,6 +20,10 @@ body{
     opacity: 0;
 }
 
+.title{
+    text-align: center;
+}
+
 .star {
     position: fixed;
     top: -15px;
@@ -34,20 +38,20 @@ body{
   
 @keyframes star {
     0% {
-      transform: translateY(0) rotate(-5deg);
-      opacity: 0;
+        transform: translateY(0) rotate(-5deg);
+        opacity: 0;
     }
   
     5% {
-      opacity: 1;
+         opacity: 1;
     }
   
     80% {
-      opacity: 1;
+         opacity: 1;
     }
   
     100% {
-      transform: translateY(50px) rotate(5deg);
-      opacity: 0;
+         transform: translateY(50px) rotate(5deg);
+         opacity: 0;
     }
 }
