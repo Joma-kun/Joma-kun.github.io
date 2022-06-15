@@ -22,6 +22,16 @@ body{
 
 .title{
     text-align: center;
+    font-size: 64px;
+}
+
+.box{
+  text-align: center;
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin-left: auto;
+  margin-right: auto;
+  border: double 5px #ffd700;
 }
 
 .star {
