@@ -26,6 +26,17 @@ body{
     text-shadow: 3px 3px 3px gray;
 }
 
+.star {
+    position: fixed;
+    top: -15px;
+    left: -15px;
+    width: 36px;
+    height: 36px;
+    background: url(image/kirakira.png);
+    background-size: contain;
+    z-index: 10;
+    animation: star 1.5s ease-out 0s forwards;
+}
 
 @keyframes star {
     0% {
