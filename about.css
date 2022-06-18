@@ -24,6 +24,13 @@ body{
     text-align: center;
     font-size: 64px;
     text-shadow: 3px 3px 3px gray;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.comment{
+    text-align: center;
+    font-size: large;
 }
 
 .box{
