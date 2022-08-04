@@ -1,5 +1,5 @@
 # Joma-kun.github.io
 webページです  
 じょまくんの遊び場  
-https://Joma-kun.github.io  
+[link](https://Joma-kun.github.io){:target="_blank"}  
 恥ずかしいので中身はあまり見ないでください；；  
