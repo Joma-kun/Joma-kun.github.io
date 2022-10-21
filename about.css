@@ -30,7 +30,9 @@ body{
 
 .comment{
     text-align: center;
-    font-size: large;
+    font-size: 60px;
+    font-family: serif;
+    margin-top: 5px;
 }
 
 .box{
